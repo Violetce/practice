@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en=us">
+
+<head>
+  <title> Day 2 - GitHub </title>
+</head>
+
+<body>
+<h1>Github - Pushing changes, pulling changes</h1>
+This will notify you when we push changes to the class repository 
+so you can perform a `git pull` and receive updates
+Try `git pull origin master` or `git pull` in gitbash/Terminal and 
+this is how you will get updates
+You must `cd` into the classRepo folder or whatever you named it, 
+to run `git pull origin master` (edited)
+
+</body>
+
+</html>
